@@ -17,7 +17,6 @@ O **Pokemon-Game** é um jogo desenvolvido em Python que simula batalhas entre P
 
 - **Captura de Pokémons**: Permite ao jogador capturar diferentes espécies de Pokémons.
 - **Batalhas**: Sistema de batalhas baseado em turnos entre o jogador e inimigos controlados pelo sistema.
-- **Progressão**: Os Pokémons ganham experiência e sobem de nível conforme participam de batalhas.
 
 ## Tecnologias Utilizadas
 
